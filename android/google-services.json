@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691534426175",
+    "firebase_url": "https://le-trente-app-mobile.firebaseio.com",
+    "project_id": "le-trente-app-mobile",
+    "storage_bucket": "le-trente-app-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691534426175:android:d1d0c6a47c8150636cc88a",
+        "android_client_info": {
+          "package_name": "tech.creativelab.letrente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691534426175-4u4roj6odc7v66fjngh88l27j5fj7ln2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNgxyHlL9QZu1Mgfks-rFet9LjBZOeSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691534426175-4u4roj6odc7v66fjngh88l27j5fj7ln2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691534426175-n0lv8jov0g3r4prmm22p1c36fl5hajij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.creativelab.letrente"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
